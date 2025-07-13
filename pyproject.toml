@@ -8,6 +8,7 @@ dependencies = [
     "bitsandbytes>=0.46.1",
     "chromadb>=1.0.15",
     "kaggle>=1.7.4.5",
+    "langchain-openai>=0.3.27",
     "numpy>=2.3.1",
     "pandas>=2.3.1",
     "scikit-learn>=1.7.0",
